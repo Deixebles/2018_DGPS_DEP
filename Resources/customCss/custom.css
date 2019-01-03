@@ -1,0 +1,159 @@
+.boton_verde{
+    margin-top: -20%;background: yellowgreen !important;
+}
+.tabs .tab a{
+    font-size:17px!important;
+}
+html{
+    overflow-y: scroll !important;
+
+}
+.g[Attributes] {
+
+translate(800.12, 300)!important;
+}
+
+.card {
+    margin: 4rem 0 1rem 0 !important;
+}
+
+
+.headcol {
+    position: absolute;
+    width: 8em;
+    left: 140px;
+    top: auto;
+    border-top-width: 1px;
+    /*only relevant for first row*/
+    margin-top: -1px;
+    /*compensate for top border*/
+}
+
+
+.colorEveris{
+    color:yellowgreen;
+    font-weight: 800;
+    margin-top: 3rem;
+}
+
+.picker__table{
+    font-size: 2rem!important;
+}
+
+.inner{
+    padding-left: 1em;
+    overflow: hidden;
+    display: none;
+
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+
+table#t01 {
+    width: 100%;
+    background-color: #f1f1c1;
+}
+
+li {
+    margin: .5em 0;}
+
+a.toggle {
+    width: 100%;
+    display: block;
+    background: darkslateblue !important;
+    color: #fefefe;
+    padding: .75em;
+    border-radius: 0.15em;
+    transition: background .3s ease;
+}
+
+.tabs .indicator{
+    background-color: darkslateblue;
+}
+
+.rayas tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
+
+/*Parrafos*/
+.parrafo__box
+{
+
+}
+
+/*text*/
+.font__size-10
+{
+    font-size: 10px;
+}
+.font__size-12
+{
+    font-size: 12px;
+}
+.font__size-14
+{
+    font-size: 14px;
+}
+
+
+/* ///////// TABLES ///////// */
+th
+
+{
+
+text-align: center;
+font-weight: 900
+color:black;
+
+}
+
+th a
+
+{
+
+color: #222;
+
+}
+
+.table__style-format
+
+{
+
+display: block;
+
+overflow-x: auto;
+
+white-space: nowrap;
+
+width:90rem;
+
+margin-left: -12rem
+
+} 
+
+
